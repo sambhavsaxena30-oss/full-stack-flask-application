@@ -1,0 +1,10 @@
+Flask
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+flask_socketio
+flask-caching
+openpyxl 
+gunicorn 
