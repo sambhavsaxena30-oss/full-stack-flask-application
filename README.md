@@ -64,26 +64,3 @@ gunicorn -w 4 app:app
 
 ---
 
-## 🌐 Live Demo
-
-Try it now: [data-analysis-dashboard-w47o.onrender.com](https://data-analysis-dashboard-w47o.onrender.com/)
-
----
-
-## 🧑‍💻 For Developers
-
-- Modular Flask app (`app.py`)
-- All templates in `/templates/`
-- Static assets in `/static/`
-- Uploads in `/uploads/`
-- Easily extend with new chart types or data sources
-
----
-
-## 📄 License
-
-MIT
-
----
-
-> **Built with Python, Pandas, and Plotly for data lovers and analysts!** 
